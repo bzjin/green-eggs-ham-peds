@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/green-eggs-ham-peds/static/css/main.52f4fb1c.chunk.css",
-    "main.js": "/green-eggs-ham-peds/static/js/main.b36cca5f.chunk.js",
-    "main.js.map": "/green-eggs-ham-peds/static/js/main.b36cca5f.chunk.js.map",
-    "runtime-main.js": "/green-eggs-ham-peds/static/js/runtime-main.07f49e55.js",
-    "runtime-main.js.map": "/green-eggs-ham-peds/static/js/runtime-main.07f49e55.js.map",
-    "static/js/2.fd6af3a3.chunk.js": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js",
-    "static/js/2.fd6af3a3.chunk.js.map": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js.map",
-    "static/js/3.69f3db8e.chunk.js": "/green-eggs-ham-peds/static/js/3.69f3db8e.chunk.js",
-    "static/js/3.69f3db8e.chunk.js.map": "/green-eggs-ham-peds/static/js/3.69f3db8e.chunk.js.map",
+    "main.css": "/green-eggs-ham-peds/static/css/main.aefd88ca.chunk.css",
+    "main.js": "/green-eggs-ham-peds/static/js/main.b2ffd566.chunk.js",
+    "main.js.map": "/green-eggs-ham-peds/static/js/main.b2ffd566.chunk.js.map",
+    "runtime-main.js": "/green-eggs-ham-peds/static/js/runtime-main.02410f14.js",
+    "runtime-main.js.map": "/green-eggs-ham-peds/static/js/runtime-main.02410f14.js.map",
+    "static/js/2.02a09d9c.chunk.js": "/green-eggs-ham-peds/static/js/2.02a09d9c.chunk.js",
+    "static/js/2.02a09d9c.chunk.js.map": "/green-eggs-ham-peds/static/js/2.02a09d9c.chunk.js.map",
+    "static/js/3.bb2ee351.chunk.js": "/green-eggs-ham-peds/static/js/3.bb2ee351.chunk.js",
+    "static/js/3.bb2ee351.chunk.js.map": "/green-eggs-ham-peds/static/js/3.bb2ee351.chunk.js.map",
     "index.html": "/green-eggs-ham-peds/index.html",
-    "static/css/main.52f4fb1c.chunk.css.map": "/green-eggs-ham-peds/static/css/main.52f4fb1c.chunk.css.map",
-    "static/js/2.fd6af3a3.chunk.js.LICENSE.txt": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js.LICENSE.txt"
+    "static/css/main.aefd88ca.chunk.css.map": "/green-eggs-ham-peds/static/css/main.aefd88ca.chunk.css.map",
+    "static/js/2.02a09d9c.chunk.js.LICENSE.txt": "/green-eggs-ham-peds/static/js/2.02a09d9c.chunk.js.LICENSE.txt",
+    "static/media/Panel1-Desktop.3b968e62.jpg": "/green-eggs-ham-peds/static/media/Panel1-Desktop.3b968e62.jpg",
+    "static/media/Panel1-Ipad.78856d63.jpg": "/green-eggs-ham-peds/static/media/Panel1-Ipad.78856d63.jpg",
+    "static/media/Panel1-Mobile.0dc6ff7e.jpg": "/green-eggs-ham-peds/static/media/Panel1-Mobile.0dc6ff7e.jpg",
+    "static/media/Panel1-XSMobile.16c1e972.jpg": "/green-eggs-ham-peds/static/media/Panel1-XSMobile.16c1e972.jpg",
+    "static/media/topper.edc2faf8.jpg": "/green-eggs-ham-peds/static/media/topper.edc2faf8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07f49e55.js",
-    "static/js/2.fd6af3a3.chunk.js",
-    "static/css/main.52f4fb1c.chunk.css",
-    "static/js/main.b36cca5f.chunk.js"
+    "static/js/runtime-main.02410f14.js",
+    "static/js/2.02a09d9c.chunk.js",
+    "static/css/main.aefd88ca.chunk.css",
+    "static/js/main.b2ffd566.chunk.js"
   ]
 }
