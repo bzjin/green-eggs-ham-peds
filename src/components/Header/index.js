@@ -1,8 +1,10 @@
 import './styles.scss';
+import topper from './topper.jpg';
 
 const Header = props => {
   return (
     <div className='header'>
+      <img src={topper} alt='Top image of person spraying themselves with a hose connected to PEDs cannister' />
       <h1>
         Green eggs and ham and performance-enhancing drugs
       </h1>

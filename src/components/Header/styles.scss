@@ -5,6 +5,7 @@ div.header {
     margin: 0 auto;
   }
   h1 {
+    margin-top: 0px;
     font-size: 3rem;
     @media screen and (max-width: 600px){
       font-size: 1.6rem;
@@ -14,5 +15,10 @@ div.header {
     @media screen and (max-width: 600px){
       font-size: .9rem;
     }
+  }
+
+  img {
+    width: 100px;
+    margin: 20px auto 8px;
   }
 }
