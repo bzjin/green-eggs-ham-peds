@@ -1383,6 +1383,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@newswire/frames@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@newswire/frames/-/frames-0.3.1.tgz#f2b3ad10e31a28e3126795f130f9d48144373a58"
+  integrity sha512-o+RiGzc/ibNPE1a51KYxqBPR/xwF6HrO/NlO3fLWZHEqMRPdjaA63fUwlO6EBnYSvE8W/DZQI/HbdqL+i7xN9A==
+
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.3.tgz#3a582bdb53804c6ba6d146579c46e52130cf4a3b"
@@ -2164,6 +2169,14 @@ aggregate-error@^3.0.0:
   dependencies:
     clean-stack "^2.0.0"
     indent-string "^4.0.0"
+
+ai2jsx@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/ai2jsx/-/ai2jsx-0.0.7.tgz#e4fa87d310213a3714e44617f6f34212b2535239"
+  integrity sha512-z60CFtE1HphbW1rjJi+OlOjuojWQB6QJbhnU92i0ngVmmOz4BgHJgww5+WheAy0Q76POvEg7FGP5c1But9YzCg==
+  dependencies:
+    "@newswire/frames" "^0.3.1"
+    lodash "^4.17.14"
 
 ajv-errors@^1.0.0:
   version "1.0.1"
