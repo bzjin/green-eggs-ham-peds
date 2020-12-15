@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/green-eggs-ham-peds/static/css/main.52f4fb1c.chunk.css",
+    "main.js": "/green-eggs-ham-peds/static/js/main.b36cca5f.chunk.js",
+    "main.js.map": "/green-eggs-ham-peds/static/js/main.b36cca5f.chunk.js.map",
+    "runtime-main.js": "/green-eggs-ham-peds/static/js/runtime-main.07f49e55.js",
+    "runtime-main.js.map": "/green-eggs-ham-peds/static/js/runtime-main.07f49e55.js.map",
+    "static/js/2.fd6af3a3.chunk.js": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js",
+    "static/js/2.fd6af3a3.chunk.js.map": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js.map",
+    "static/js/3.69f3db8e.chunk.js": "/green-eggs-ham-peds/static/js/3.69f3db8e.chunk.js",
+    "static/js/3.69f3db8e.chunk.js.map": "/green-eggs-ham-peds/static/js/3.69f3db8e.chunk.js.map",
+    "index.html": "/green-eggs-ham-peds/index.html",
+    "static/css/main.52f4fb1c.chunk.css.map": "/green-eggs-ham-peds/static/css/main.52f4fb1c.chunk.css.map",
+    "static/js/2.fd6af3a3.chunk.js.LICENSE.txt": "/green-eggs-ham-peds/static/js/2.fd6af3a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f49e55.js",
+    "static/js/2.fd6af3a3.chunk.js",
+    "static/css/main.52f4fb1c.chunk.css",
+    "static/js/main.b36cca5f.chunk.js"
+  ]
+}
