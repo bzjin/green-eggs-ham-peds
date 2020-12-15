@@ -5,6 +5,7 @@ import Desktop from './Desktop';
 import Mobile from './Mobile';
 import Ipad from './Ipad';
 import XSMobile from './XSMobile';
+import SMobile from './SMobile';
 
 const LAYOUTS = {
   Desktop: {
@@ -20,8 +21,12 @@ const LAYOUTS = {
     component: Ipad,
   },
   XSMobile: {
-    breakpoint: 290,
+    breakpoint: 300,
     component: XSMobile,
+  },
+  SMobile: {
+    breakpoint: 400,
+    component: SMobile,
   },
 };
 

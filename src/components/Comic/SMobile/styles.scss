@@ -1,0 +1,47 @@
+  #g-SMobile-box .g-artboard {
+    margin:0 auto;
+  }
+  #g-SMobile-box p {
+    margin:0;
+  }
+  .g-aiAbs {
+    position:absolute;
+  }
+  .g-aiImg {
+    display:block;
+    width:100% !important;
+  }
+  .g-aiSymbol {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .g-aiPointText p { white-space: nowrap; }
+  svg{ vector-effect: non-scaling-stroke; }
+  #g-Panel1-SMobile {
+    position:relative;
+    overflow:hidden;
+  }
+  #g-Panel1-SMobile p {
+    font-weight:500;
+    font-size:10px;
+    line-height:13px;
+    filter:alpha(opacity=100);
+    -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity:1;
+    letter-spacing:0em;
+    text-align:left;
+    color:rgb(0,0,0);
+    text-transform:none;
+    padding-bottom:0;
+    padding-top:0;
+    mix-blend-mode:normal;
+    font-style:normal;
+    height:auto;
+    position:static;
+  }
+  #g-Panel1-SMobile .g-pstyle0 {
+    color:rgb(255,255,255);
+  }
+  #g-Panel1-SMobile .g-pstyle1 {
+    text-align:center;
+  }

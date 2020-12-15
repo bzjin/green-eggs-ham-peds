@@ -1,10 +1,10 @@
 div.footer {
   text-align: center;
   @media screen and (max-width: 600px){
-    width: 95%;
-    margin: 0 auto;
+    margin: 20px 20px 8px;
   }
   @media screen and (max-width: 600px){
     font-size: .9rem;
+    line-height: 1.3;
   }
 }
