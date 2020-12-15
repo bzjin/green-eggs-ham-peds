@@ -4,12 +4,13 @@
 
 import React from 'react';
 import { styles } from './styles.scss';
+import panel from './Panel1-Desktop.jpg';
 
 const Desktop = () => (
   <div className={`Desktop ${styles}`}>
     <div id='g-Desktop-box'>
       <div id='g-Panel1-Desktop' className='g-artboard' style={ { "width": "800px", "height": "5693px"} } data-aspect-ratio='0.141' data-min-width='800'>
-        <img id='g-Panel1-Desktop-img' className='g-aiImg g-aiAbs' alt='' src='./Panel1-Desktop.jpg' />
+        <img id='g-Panel1-Desktop-img' className='g-aiImg g-aiAbs' alt='' src={panel} />
         <div id='g-ai0-1' className='g-Layer_1 g-aiAbs' style={ { "top": "0.6324%", "left": "14.8022%", "width": "33.125%"} }>
           <p>Lachlan, with the PEDs</p>
           <p>Tell, us, do you use them, please?</p>
